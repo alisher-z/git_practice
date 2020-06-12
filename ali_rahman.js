@@ -1,1 +1,2 @@
-print('Hello Ali Rahman');
+const name = "Ali Rahman";
+print('Hello ' + name);
